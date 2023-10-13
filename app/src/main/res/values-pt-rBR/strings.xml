@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="morning">Bom-dia!</string>
+    <string name="afternoon">Boa-tarde!</string>
+    <string name="night">Boa-noite!</string>
+</resources>
